@@ -21,6 +21,6 @@ Let $E_{1}$ represent the edge $u_{1}, v_{1}$, and $E_{2}$ represent the edge $u
 
 There exists a one-to-one and onto functon $f: u_{1} \rightarrow v_{1}$ such that $(u_{1}, v_{1}) \in E_{1}$ and $(f(u_{1}), f(v_{1})) = (u_{2}, v_{2}) \in E_{2}$
 
-By definition of isomorphism, G_{1} is isomorphic to G_{2}.
+By definition of isomorphism, $G_{1}$ is isomorphic to $G_{2}$.
 
 Thus, two graphs do not have to be completely connected in order to be isomorphic.
